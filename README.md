@@ -1,2 +1,2 @@
-# TimetableGen
-mini proj
+# Timetable Generator for VESIT
+
